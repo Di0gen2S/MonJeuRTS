@@ -90,6 +90,7 @@ namespace MonJeuRTS.Moteur
             Logger.Ecrire($"Création de la fenêtre {LARGEUR_FENETRE}x{HAUTEUR_FENETRE}", NiveauLog.Info);
             Raylib.InitWindow(LARGEUR_FENETRE, HAUTEUR_FENETRE, TITRE_FENETRE);
             Raylib.SetTargetFPS(FPS_CIBLE);
+            Raylib.SetExitKey(KeyboardKey.Null);
             
             // 2. Initialisation de l'horloge
             horloge = new Horloge();

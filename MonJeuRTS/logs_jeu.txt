@@ -1,20 +1,20 @@
-[15:50:37] [INFO] Logger initialisé avec succès
-[15:50:37] [INFO] Fichier de logs : C:\Users\user\Desktop\GitHub\MonJeuRTS\MonJeuRTS\logs_jeu.txt
-[15:50:37] [INFO] === DÉMARRAGE DU JEU RTS ===
-[15:50:37] [INFO] === INITIALISATION DU JEU ===
-[15:50:37] [INFO] Création de la fenêtre 1280x720
-[15:50:38] [INFO] Horloge initialisée
-[15:50:38] [INFO] Gestionnaire d'états initialisé
-[15:50:38] [INFO] Changement d'état : Aucun → EtatMenu
-[15:50:38] [INFO] Entrée dans l'état Menu
-[15:50:38] [INFO] === INITIALISATION TERMINÉE ===
-[15:50:38] [INFO] === ENTRÉE DANS LA BOUCLE PRINCIPALE ===
-[15:50:41] [INFO] Bouton 'Jouer' cliqué - Démarrage de la partie
-[15:50:41] [INFO] Changement d'état : EtatMenu → EtatPartie
-[15:50:41] [INFO] Sortie de l'état Menu
-[15:50:41] [INFO] Entrée dans l'état Partie - Début du jeu
-[15:50:51] [INFO] === SORTIE DE LA BOUCLE PRINCIPALE ===
-[15:50:51] [INFO] === FERMETURE PROPRE DU JEU ===
-[15:50:51] [INFO] Fenêtre Raylib fermée
-[15:50:51] [INFO] === FERMETURE DU JEU ===
-[15:50:51] [INFO] Fermeture du système de logs
+[05:55:20] [INFO] Logger initialisé avec succès
+[05:55:20] [INFO] Fichier de logs : C:\Users\user\Desktop\GitHub\MonJeuRTS\MonJeuRTS\logs_jeu.txt
+[05:55:20] [INFO] === DÉMARRAGE DU JEU RTS ===
+[05:55:20] [INFO] === INITIALISATION DU JEU ===
+[05:55:20] [INFO] Création de la fenêtre 1280x720
+[05:55:20] [INFO] Horloge initialisée
+[05:55:20] [INFO] Gestionnaire d'états initialisé
+[05:55:20] [INFO] Changement d'état : Aucun → EtatMenu
+[05:55:20] [INFO] Entrée dans l'état Menu
+[05:55:20] [INFO] === INITIALISATION TERMINÉE ===
+[05:55:20] [INFO] === ENTRÉE DANS LA BOUCLE PRINCIPALE ===
+[05:55:23] [INFO] Bouton 'Jouer' cliqué - Démarrage de la partie
+[05:55:23] [INFO] Changement d'état : EtatMenu → EtatPartie
+[05:55:23] [INFO] Sortie de l'état Menu
+[05:55:23] [INFO] Entrée dans l'état Partie - Début du jeu
+[05:55:34] [INFO] === SORTIE DE LA BOUCLE PRINCIPALE ===
+[05:55:34] [INFO] === FERMETURE PROPRE DU JEU ===
+[05:55:34] [INFO] Fenêtre Raylib fermée
+[05:55:34] [INFO] === FERMETURE DU JEU ===
+[05:55:34] [INFO] Fermeture du système de logs
